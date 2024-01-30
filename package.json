@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@icon-park/react": "^1.4.2",
+    "clsx": "^2.1.0",
+    "dayjs": "^1.11.10",
     "install": "^0.13.0",
     "plasmo": "0.84.1",
     "react": "18.2.0",
